@@ -1,0 +1,29 @@
+BOOKING_CATEGORY,ITEM,DATES,BOOKING_WINDOW,CONFIRMATION_NUMBER,BOOKING_DATE,COST_ESTIMATE,ACTUAL_COST,CANCELLATION_POLICY,REFUND_DEADLINE,STATUS,PHONE_NUMBER,WEBSITE,NOTES
+FLIGHTS,LAX to Orlando,Jun 29 evening,4-5 weeks (Jun 5-12),,,,1200-1800,24 hours,48 hrs before flight,[ ] Booked,1-800-AIRLINE,flights.google.com,Direct evening flight preferred
+FLIGHTS,Orlando to Boston,Jul 3 morning,4-5 weeks (Jun 4-13),,,,1000-1600,24 hours,48 hrs before flight,[ ] Booked,1-800-AIRLINE,flights.google.com,Arrive by 2-3 PM for Riana tour
+FLIGHTS,Boston to LAX,Jul 18 morning,4-5 weeks (Jun 4-13),,,,1200-2000,24 hours,48 hrs before flight,[ ] Booked,1-800-AIRLINE,flights.google.com,Depart 10 AM-12 PM window
+FLIGHTS,SYD to LAX (return),Jul 18 evening,BOOKED,✓,✓,✓,✓,24 hours,✓,[ ] Booked,QUANTAS,QUANTAS,Already booked
+FLIGHTS,LAX to SYD (outbound),Jun 27 early AM,BOOKED,✓,✓,✓,✓,24 hours,✓,[ ] Booked,QUANTAS,QUANTAS,Already booked
+HOTELS,Los Angeles,Jun 27-29 (2 nights),May 5-12,,,,240-360,,24 hours before,[ ] Booked,--,hotels.com or airbnb,Santa Monica or Venice Beach
+HOTELS,Orlando (on Disney property),Jun 29-Jul 2 (3 nights),May 5-12,,,,900-1200,,5 days before,[ ] Booked,407-939-5000,disneyworld.disney.go.com,Art of Animation or Value Resort
+HOTELS,Boston,Jul 3-17 (12 nights),Apr 19-May 10,,,,1680-2400,,48 hours before,[ ] Booked,--,booking.com or airbnb,Back Bay or Beacon Hill preferred
+HOTELS,NYC,Jul 12-14 (2 nights),May 17-24,,,,300-400,,48 hours before,[ ] Booked,--,hotels.com,Midtown or Penn Station area
+DISNEY,3-Day Park Hopper Tickets,Jun 30-Jul 2,Buy by May 20,,,,2120-2280,,60 days before,[ ] Purchased,--,disneyworld.disney.go.com,Buy directly from Disney
+DISNEY,Character Dining Reservation,TBD,May 29 @ 12:01 AM ET,,,,240-450,,3 days before,[ ] Booked,407-WDW-DINE,disneyworld.disney.go.com,"Call at 12:01 AM ET on May 29 - HIGH DEMAND"
+DISNEY,On-Property Hotel,Jun 29-Jul 2,May 5-12,,,,900-1200,,5 days before,[ ] Booked,407-939-5000,disneyworld.disney.go.com,Included above in Hotels section
+TRANSPORT,Amtrak Northeast Regional,Jul 10 Boston to NYC,30-60 days (May 19-Jun 3),,,,150-240,,Until train date,[ ] Booked,1-800-USA-RAIL,amtrak.com,Evening departure ~6 PM
+TRANSPORT,Amtrak Northeast Regional,Jul 13 NYC to Boston,30-60 days (May 19-Jun 3),,,,150-240,,Until train date,[ ] Booked,1-800-USA-RAIL,amtrak.com,Evening departure ~6 PM
+TRANSPORT,Statue of Liberty Ferry,Jul 12 or 13,4-5 weeks before,,,,80-92,,Until tour date,[ ] Booked,--,statueoflibertytours.com,Reserve + Pedestal access
+DINING,Boston Fine Dining #1,TBD July 5-11,30 days rolling,,,,"250-400 (all)",,"24-48 hours",[ ] Booked,--,opentable.com or resy.com,Mistral or Oleana
+DINING,Boston Fine Dining #2,TBD July 5-11,30 days rolling,,,,"250-400 (all)",,"24-48 hours",[ ] Booked,--,opentable.com or resy.com,Neptune Oyster (if available)
+DINING,Disney Character Dining,Included in Disney,May 29 booking,,,,"240-450",,"3 days before",[ ] Booked,407-WDW-DINE,disneyworld.disney.go.com,Akershus + Cinderella's Royal Table
+DINING,NYC Fine Dining,Jul 12-13,30 days rolling,,,,"400-640",,"24-48 hours",[ ] Booked,--,opentable.com or resy.com,Michelin-starred or high-end
+ACTIVITIES,Broadway Show Ticket,Jul 12 or 13 evening,4-6 weeks (May 17-Jun 3),,,,480-1000,,Until show date,[ ] Booked,--,broadway.com or ticketmaster.com,Lion King / Aladdin / Book of Mormon
+ACTIVITIES,Museum of Science,Boston Jul 5-11,Anytime (buy 1-2 weeks prior),,,,100-120,,Anytime,[ ] Booked,617-723-2500,mos.org,Combo bundles save 20-30%
+ACTIVITIES,New England Aquarium,Boston Jul 5-11,Anytime (buy 1-2 weeks prior),,,,95-110,,Anytime,[ ] Booked,617-973-5200,neaq.org,Advance online discounts
+ACTIVITIES,MoMA (NYC),Jul 12-13,1-2 weeks prior,,,,64,,Timed entry ticket,[ ] Booked,212-708-9400,moma.org,Pay-what-you-wish 4-8 PM on Fridays
+ACTIVITIES,American Museum of Natural History,Jul 12-13,1-2 weeks prior,,,,60-90,,Timed entry ticket,[ ] Booked,212-769-5100,amnh.org,Pay-what-you-wish for NY residents
+ACTIVITIES,Freedom Trail Walking Tour,Boston Jul 5-11,Anytime,,,,100,,Day of tour,[ ] Booked,--,thefreedomtrail.org,Guided tour recommended for context
+DOCUMENTS,Confirm Passport Validity,All 4 passports,Immediately,✓,✓,✓,✓,N/A,ASAP,[ ] Verified,--,--,Must be valid until Jul 20 2026 minimum
+DOCUMENTS,Check Travel Insurance,Optional,4 weeks before,,,,250-500,,Until departure,[ ] Booked,--,world-nomads.com or cover-more.com.au,Highly recommended for peak summer
+LOGISTICS,Harvard RA Contact,Riana pickup logistics,6 weeks before,,,,"0",,"3 days before",[ ] Confirmed,--,email/phone,Confirm Jul 18 morning pickup time 7-8 AM
