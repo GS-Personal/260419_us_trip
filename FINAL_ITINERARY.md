@@ -173,45 +173,49 @@ All airline-served airports for this trip, in order of travel. Cities with multi
 
 ---
 
-### **JUN 29 (MONDAY) — EXTRA LA DAY (VENICE, HOLLYWOOD, OR RELAX)**
+### **JUN 29 (MONDAY) — VENICE + SANTA MONICA · PACK BY 6 PM**
+
+**THE CONSTRAINT:** Tomorrow's Orlando flight (DL0482) departs LAX at 7:25 AM — you're up at 4:30 AM. Today is fun-but-tight: home by 5:30 PM, packed by 6 PM, dinner, bed by 9:30 PM.
 
 **⏰ TIMELINE:**
 
-**8:00-9:30 AM: Breakfast**
-- Sleep in, leisurely morning
-- Breakfast at Airbnb or walk to local cafe in Torrance
+**9:30 AM: Wake** — sleep in, breakfast at Airbnb or walk to a local Torrance cafe (Eggslut, Sidecar Doughnuts).
 
-**9:30 AM-1:00 PM: VENICE BEACH & BOARDWALK** *(~25-30 min drive from Torrance)*
-- Walk Venice Boardwalk (street performers, artists, Muscle Beach)
-- Browse shops and stalls
-- Venice Canals walk (quiet, picturesque residential canals)
-- **Cost:** Free (walking), snacks ~$20-30
+**10:30 AM: Drive to Venice** (~25-30 min) — park at the **Rose Ave lot** ($15 flat all day) or street meters on Pacific Ave.
 
-**1:00-2:30 PM: Lunch**
-- **Options:**
-  - Gjusta (Venice, bakery/deli, ~$15-25/person)
-  - Abbot Kinney Blvd restaurants (trendy strip, ~$20-30/person)
-  - Casual beachside cafe
+**11:00-11:40 AM: Venice Canals walk** — a hidden residential pocket built in 1905 to mimic Venice, Italy. Narrow canals with small bridges, cute houses with kayaks tied up. Quiet, photogenic, completely separate from the boardwalk. 30-40 min total.
 
-**2:30-5:30 PM: HOLLYWOOD (Optional) OR RELAX**
-- **Option A: Hollywood**
-  - Walk of Fame (free, iconic stars on sidewalk)
-  - TCL Chinese Theatre (handprints, free to view)
-  - Hollywood Sign views from Hollywood & Highland
-  - ~40 min drive from Venice
-- **Option B: Relax near Airbnb**
-  - South Bay beach walk (Redondo/Hermosa, ~10 min), rest before tomorrow's early flight
+**11:45 AM-1:00 PM: Venice Boardwalk** — bohemian carnival energy. **Muscle Beach** (open-air gym), the famous skate park right on the beach, street performers, vendor stalls, graffiti walls. Loud, scruffy, alive. The kids will love it; adults usually had enough after 60-90 min.
 
-**5:30-8:00 PM: Dinner**
-- **Options:**
-  - Abbot Kinney Blvd (trendy Venice restaurants, ~$25-40/person)
-  - Santa Monica Promenade (variety of dining, ~$20-35/person)
-  - In-N-Out Burger (iconic LA fast food, ~$8-12/person)
+**1:00-2:00 PM: Lunch at Gjusta** — 320 Sunset Ave. Best bakery/deli in LA — sandwiches, salads, pastries. ~$60 for 4. *Backup if line is long: Great White on Rose Ave (Aussie-style cafe).*
 
-**8:00 PM: Pack & Early Night**
-- Pack for Orlando, early flight tomorrow (7:25 AM departure = leave Airbnb ~5:00 AM)
+**2:00-2:15 PM: Drive to Santa Monica** (~10 min) — park at **Santa Monica Place mall garage** (1455 4th St, $5/hr, 2 hrs free with validation from any store).
+
+**2:15-3:45 PM: Santa Monica Pier + Pacific Park** — 100-year-old wooden pier marking the western end of Route 66. **Pacific Park** has rides — **Ferris wheel is essential** (~$15/person, 10 min, postcard photos). Mini roller coaster, arcade, carnival games. ~$5-10/ride or $33 unlimited wristband.
+
+**3:45-4:15 PM: Third Street Promenade** — pedestrian shopping street 2 blocks inland. Apple, Sephora, buskers. Quick browse for the teens.
+
+**4:15-4:45 PM: Drive back to Torrance** (~25 min, allow 30 for Monday afternoon traffic).
+
+**4:45-5:30 PM: Home — start packing** (luggage out, toiletries last, set boarding passes on phones).
+
+**6:00 PM: Pack done · early dinner at In-N-Out Burger** (3640 Pacific Coast Hwy, Torrance — 10 min from Airbnb). Order: **Double-Double Animal Style + Animal Style Fries + Strawberry shake**. ~$50 for 4. Drive-thru works perfectly.
+
+**7:30 PM: Home · final checks**
+- Boarding passes on phones (DL0482, LAX → MCO, 7:25 AM)
+- Set **3 alarms** for 04:30 AM (yours, Vernika's, plus a backup phone on the kitchen counter)
+- Order/schedule **Uber XL for 04:50 AM** to LAX (or set Turo Kia dropoff slot at LAX — book the return BEFORE sleeping)
+- Charge phones + power bank
+- Empty Airbnb fridge — Patti's checkout is 11 AM but you'll be long gone
+- Leave a thank-you note + tip for Patti
+
+**9:30 PM: Lights out** — you're up in 7 hours
 
 **💤 OVERNIGHT:** Torrance Airbnb (final night)
+
+**💰 ESTIMATED COST:** ~$235 (Breakfast $50 · Lunch Gjusta $60 · Parking $25 · Pier rides $40 · In-N-Out $50 · Gas $10)
+
+**WHY NO HOLLYWOOD:** You already saw the Hollywood Sign from Griffith last night — that's the iconic photo. Walk of Fame itself is grimy, the stars are just names on a sidewalk, and the time cost (~90 min round trip + walking) would eat into pier time which is much more fun.
 
 ---
 
