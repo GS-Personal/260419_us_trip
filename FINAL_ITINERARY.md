@@ -282,55 +282,73 @@ All airline-served airports for this trip, in order of travel. Cities with multi
 
 ---
 
-### **JUL 1 (WEDNESDAY) — MAGIC KINGDOM (Full Day)**
+### **JUL 1 (WEDNESDAY) — MAGIC KINGDOM · LL MULTI PASS DAY**
 
-**8:00-9:00 AM: Breakfast**
-- Breakfast at hotel
-- Freshen up, change into theme park clothes
+**LL MULTI PASS BOOKED (~$120/family):**
+- **Peter Pan's Flight** — 2:20-3:20 PM (Tier 1)
+- **Haunted Mansion** — 5:15-6:15 PM (Tier 2)
+- **Buzz Lightyear** — 6:25-7:25 PM (Tier 2)
 
-**9:00 AM-7:00 PM: MAGIC KINGDOM**
-- **Open:** 8:00 AM (early entry at 8 AM if Disney hotel guest, 9 AM general opening)
-- **Arrive: 9:00 AM** (start 1 hour after opening for crowds)
-- **Must-Do Attractions:**
-  - Space Mountain (Tomorrowland) — get FastPass+ for this
-  - Cinderella's Castle (iconic photo, walk-through)
-  - Haunted Mansion (Frontierland) — spooky fun
-  - Pirates of the Caribbean (Adventureland) — classic
-  - Jungle Cruise (Adventureland) — comedy-focused boat ride
-  - Splashdown (log ride) — refreshing
-  - Carousel of Progress (Tomorrowland) — short, easy
-  - Dumbo (Fantasyland) — popular with kids
-  - Enchanted Forest swing ride (Fantasyland)
+**⏰ TIMELINE:**
 
-- **FastPass+ Strategy:** Book in advance via app:
-  1. Space Mountain (tier 1, shorter line anyway)
-  2. Cinderella's Royal Table lunch (dining reservation via app)
-  3. Big Thunder Mountain (tier 1, popular)
+**6:59 AM: 🚨 TRON VIRTUAL QUEUE** — MDE app open, tap **Join** for TRON at **7:00 AM SHARP** (all 4 party). Sells out in <60 sec. If missed: retry at **1:00 PM second drop**.
 
-- **Lunch:** Cinderella's Royal Table (character dining, 1:00 PM slot) — reservation must be secured 60 days prior at 12:01 AM ET
-  - Princess meet-and-greet while dining
-  - Cost: ~$65-75/person
-  - Alternative: Pinocchio Village House (casual, ~$15-20/person)
+**7:30 AM: Depart Polynesian** → TTC monorail to Magic Kingdom (~30 min including bag check + security).
 
-- **Dinner:** Casual (quick-service to maximize park time)
-  - Pecos Bill (Tex-Mex, ~$12-18/person)
-  - Columbia Harbour House (clam chowder, seafood, ~$15-22/person)
-  - Aloha Isle (poke bowls, $15-20/person)
+**8:30 AM: 🎢 EARLY ENTRY — sprint to Seven Dwarfs Mine Train**
+- Fantasyland, back-left past the castle
+- 15-20 min rope-drop wait vs 90-120 min later
+- **Saves the $80 LL Single Pass**
 
-**7:00 PM-9:00 PM: Evening Magic**
-- Stay for evening parade (check times on app)
-- Fireworks show "Enchantment" at 9:00 PM (nightly)
-- Watch from near Cinderella's Castle (arrive 30 mins early for good spot)
-- Return to hotel after fireworks
+**9:15-11:45 AM: Rope-drop headliners while waits are low**
+- 9:15 AM: **Space Mountain** (Tomorrowland) — 20-30 min standby
+- 10:00 AM: **Big Thunder Mountain** (Frontierland) — 20-30 min
+- 10:45 AM: **Tiana's Bayou Adventure** (Frontierland) — 30-45 min (hottest new ride)
+- 11:45 AM: **Pirates of the Caribbean** (Adventureland) — 15-25 min
+
+**12:30 PM: 🍔 LUNCH**
+- **Skipper Canteen** (Adventureland sit-down, book in MDE) — themed, air-conditioned
+- **Casey's Corner** (Main St hot dogs, quick)
+- **Cosmic Ray's** (Tomorrowland counter)
+
+**1:00 PM: 🚨 TRON VIRTUAL QUEUE second drop** — retry if morning failed
+
+**1:30 PM: Walk-on rides between now and Peter Pan LL**
+- PeopleMover, Mad Tea Party, Prince Charming Regal Carrousel, Small World
+
+**2:20 PM: 🎢 Peter Pan's Flight (LL #1)** — tap in → **IMMEDIATELY book LL #4 = Jungle Cruise** (aim for 3-4 PM window)
+
+**3:00-5:00 PM: Rolling LL chain + shorter rides**
+- 3:00 PM: **Under the Sea** or **Winnie the Pooh** (short waits)
+- 4:00 PM: 🎢 **LL #4 Jungle Cruise** — tap in → book LL #5
+- 4:30 PM: Between-slot rides
+
+**5:15 PM: 🎢 Haunted Mansion (LL #2)** — tap in → book LL #6
+
+**6:25 PM: 🎢 Buzz Lightyear (LL #3)** — tap in → try to book LL #7
+
+**7:00 PM: 🍽️ DINNER**
+- **Cosmic Ray's** (Tomorrowland fast) or **Pecos Bill Tall Tale Inn** (Frontierland Tex-Mex counter)
+
+**8:15 PM: Camp on Main Street USA for fireworks** — 6-9 rows back, in front of castle. Arrive 45 min early.
+
+**8:45 PM:** Pre-show music + castle projections begin
+
+**9:00 PM: 🎆 HAPPILY EVER AFTER FIREWORKS** (~15 min)
+
+**9:15 PM: 🚪 Head back to Polynesian** — monorail direct from MK gates
+
+**10:15 PM: 🏠 Home at Polynesian** — early night, EPCOT tomorrow
 
 **💤 OVERNIGHT:** Disney's Polynesian Village Resort
 
-**COST ESTIMATE:**
-- Theme park: Covered by 3-day hopper (pre-purchased)
-- Character breakfast: ~$290 (family of 4)
-- Lunch at park: ~$80-100
-- Dinner at park: ~$70-80
-- **Daily total: ~$440-470**
+**🎯 EXPECTED RIDE COUNT: ~15-17 attractions**
+
+**💰 DAY BUDGET (LL Multi already bought):**
+- Lunch: $60-100
+- Dinner: $60-80
+- Snacks (Dole Whip, Mickey Bar, Turkey Leg): $40
+- **Day total: ~$180-260**
 
 ---
 
@@ -379,77 +397,60 @@ All airline-served airports for this trip, in order of travel. Cities with multi
 
 ---
 
-### **JUL 3 (FRIDAY) — MAGIC KINGDOM · SPECIAL JUL 4TH FIREWORKS · PACK FOR BOSTON**
-
-**PEAK CROWD ALERT:** Jul 3-4 are among the busiest MK days of the year (Independence Day weekend). Expect 30% longer standby, packed Main Street for fireworks, and slow post-fireworks exit crowds.
+### **JUL 3 (FRIDAY) — HOLLYWOOD STUDIOS · STAR WARS + FANTASMIC! · PACK FOR BOSTON**
 
 **LL MULTI PASS BOOKED (~$120/family):**
-- **Peter Pan's Flight** — 2:20-3:20 PM (Tier 1)
-- **Haunted Mansion** — 5:15-6:15 PM (Tier 2)
-- **Buzz Lightyear** — 6:25-7:25 PM (Tier 2)
+- **Star Tours** — 10:05-11:05 AM (Tier 2)
+- **Rock 'n' Roller Coaster (Muppets)** — 3:30-4:30 PM (Tier 1)
+- **Tower of Terror** — 8:25-9:00 PM (Tier 2, tight window before park close)
+
+**LL SINGLE PASS: Rise of the Resistance** (~$100/family) — worth every penny
 
 **⏰ TIMELINE:**
 
-**6:59 AM: 🚨 TRON VIRTUAL QUEUE** — MDE app open, tap **Join** for TRON at **7:00 AM SHARP** (all 4 party). Sells out in <60 sec. If missed: retry at **1:00 PM second drop**.
+**7:30 AM: Depart Polynesian** → bus to Hollywood Studios (~30 min)
 
-**7:30 AM: Depart Polynesian** → TTC monorail to Magic Kingdom (~30 min including bag check + security).
+**8:30 AM: 🎢 EARLY ENTRY — sprint to Rise of the Resistance** (Galaxy's Edge)
+- 30-45 min at rope drop vs 120+ later
+- OR use your LL Single Pass instead
 
-**8:30 AM: 🎢 EARLY ENTRY — sprint to Seven Dwarfs Mine Train**
-- Fantasyland, back-left past the castle
-- 15-20 min rope-drop wait vs 90-120 min later
-- **Saves the $80 LL Single Pass**
+**9:30 AM: 🎢 Millennium Falcon: Smugglers Run** (Galaxy's Edge, interactive cockpit)
 
-**9:15-11:45 AM: Rope-drop headliners while waits are low**
-- 9:15 AM: **Space Mountain** (Tomorrowland) — 20-30 min standby
-- 10:00 AM: **Big Thunder Mountain** (Frontierland) — 20-30 min
-- 10:45 AM: **Tiana's Bayou Adventure** (Frontierland) — 30-45 min (hottest new ride)
-- 11:45 AM: **Pirates of the Caribbean** (Adventureland) — 15-25 min
+**10:05 AM: 🎢 Star Tours (LL #1)** — tap in → book LL #4
 
-**12:30 PM: 🍔 LUNCH**
-- **Skipper Canteen** (Adventureland sit-down, book in MDE) — themed, air-conditioned
-- **Casey's Corner** (Main St hot dogs, quick)
-- **Cosmic Ray's** (Tomorrowland counter)
+**11:00 AM: 🎢 Mickey & Minnie's Runaway Railway** standby (should still be low)
 
-**1:00 PM: 🚨 TRON VIRTUAL QUEUE second drop** — retry if morning failed
+**12:00 PM: 🍔 LUNCH**
+- **Docking Bay 7** (Star Wars themed) or **Woody's Lunch Box** (Toy Story Land BBQ)
 
-**1:30 PM: Walk-on rides between now and Peter Pan LL**
-- PeopleMover, Mad Tea Party, Prince Charming Regal Carrousel, Small World
+**1:00 PM: 🎭 Indiana Jones Epic Stunt Spectacular** (Echo Lake, 30 min live stunt show)
 
-**2:20 PM: 🎢 Peter Pan's Flight (LL #1)** — tap in → **IMMEDIATELY book LL #4 = Jungle Cruise** (aim for 3-4 PM window)
+**2:00 PM: Explore Galaxy's Edge**
+- Blue milk / green milk at Milk Stand ($8)
+- Savi's Workshop lightsaber build ($250)
+- Droid Depot ($120)
 
-**3:00-5:00 PM: Rolling LL chain + shorter rides**
-- 3:00 PM: **Under the Sea** or **Winnie the Pooh** (short waits)
-- 4:00 PM: 🎢 **LL #4 Jungle Cruise** — tap in → book LL #5
-- 4:30 PM: Between-slot rides (Aladdin Carpets, small stuff)
+**3:30 PM: 🎢 Rock 'n' Roller Coaster Muppets (LL #2)** — tap in → book LL #5
 
-**5:15 PM: 🎢 Haunted Mansion (LL #2)** — tap in → book LL #6
+**4:15 PM: 🎭 Muppet*Vision 3D** (25 min A/C break)
 
-**6:25 PM: 🎢 Buzz Lightyear (LL #3)** — tap in → try to book LL #7 (may be dry by now)
+**5:00 PM: 🎭 Beauty and the Beast Live on Stage** (Sunset Blvd, 30 min musical, A/C)
 
-**7:00 PM: 🍽️ DINNER**
-- **Cosmic Ray's** (Tomorrowland fast) or **Pecos Bill Tall Tale Inn** (Frontierland Tex-Mex counter) — both quick, kid-friendly
+**6:00 PM: 🎢 Alien Swirling Saucers** or **Toy Story Mania** (if open) — short waits
 
-**8:15 PM: Camp on Main Street USA for fireworks**
-- Get spot in front of Cinderella Castle, 6-9 rows back
-- Peak crowd of the trip — arrive 45 min early
+**7:00 PM: 🍽️ Quick dinner** — ABC Commissary or PizzeRizzo
 
-**8:45 PM:** Pre-show music + castle projections begin
+**7:30 PM: Check Fantasmic showtime** — get to amphitheater 30 min early
 
-**9:00 PM: 🎆 DISNEY'S CELEBRATE AMERICA**
-- Special Jul 4th patriotic fireworks (~15 min)
-- Bigger + longer than regular Happily Ever After
-- Patriotic music, extra pyrotechnics
+**8:00 PM: 🌟 FANTASMIC!** — 30 min lagoon spectacular (Mickey vs villains, water screens, fireworks)
 
-**9:15 PM: 🚪 LEAVE FAST** — post-fireworks Jul 3 is the worst crowd of the trip
+**8:25 PM: 🎢 Tower of Terror (LL #3)** — walk fast from amphitheater exit to Sunset Blvd. 35 min window before park closes at 9 PM.
 
-**9:30 PM: Best exit routes (in order)**
-1. **Boat from MK to Polynesian** — less crowded than monorail Jul 3 (~40 min)
-2. **Walk to Contemporary Resort** (10 min) → Lyft to Polynesian (~$25, ~20 min total)
-3. **Monorail** — will be jammed (~45 min queue)
+**9:00 PM: 🚪 Park closes** — head to bus/Lyft back to Polynesian
 
-**10:30 PM: 🏠 Home at Polynesian**
+**10:00 PM: 🏠 Home at Polynesian**
 
-**10:30-11:00 PM: 📦 PACK EVERYTHING**
+**10:00-10:45 PM: 📦 PACK EVERYTHING**
 - Disney merch, dirty clothes, tomorrow's outfits on top
 - Boarding passes on phones (DL2436, MCO 7:00 AM → BOS 10:07 AM)
 - Set **3 alarms** for 04:30 AM
@@ -457,21 +458,7 @@ All airline-served airports for this trip, in order of travel. Cities with multi
 - Charge phones + power bank
 - Leave tip + note for housekeeping
 
-**11:15 PM: 💤 Lights out** — 5h 15m sleep
-
-**🎯 EXPECTED RIDE COUNT: ~15-17 attractions**
-- Rope drop: 5 headliners (7 Dwarfs, Space, Big Thunder, Tiana's, Pirates)
-- LL slots + rolling: 6-7 more
-- Walk-ons: 4-5 lighter rides
-- TRON if VQ works: bonus
-
-**💰 DAY BUDGET:**
-- LL Multi Pass (already bought): $120
-- Lunch: $60-100
-- Dinner: $60-80
-- Snacks (Dole Whip, Mickey Bar, Turkey Leg): $40
-- Souvenirs: variable
-- **Day total: ~$300-400 + souvenirs**
+**11:00 PM: 💤 Lights out** — 5h 30m sleep
 
 **💤 OVERNIGHT:** Disney's Polynesian Village Resort (final night)
 
