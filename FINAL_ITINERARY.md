@@ -397,70 +397,119 @@ All airline-served airports for this trip, in order of travel. Cities with multi
 
 ---
 
-### **JUL 3 (FRIDAY) — HOLLYWOOD STUDIOS · STAR WARS + FANTASMIC! · PACK FOR BOSTON**
+### **JUL 3 (FRIDAY) — HOLLYWOOD STUDIOS · LAST DISNEY DAY · PACK FOR BOSTON**
 
 **LL MULTI PASS BOOKED (~$120/family):**
-- **Star Tours** — 10:05-11:05 AM (Tier 2)
-- **Rock 'n' Roller Coaster (Muppets)** — 3:30-4:30 PM (Tier 1)
-- **Tower of Terror** — 8:25-9:00 PM (Tier 2, tight window before park close)
+- **Star Tours** — 9:45 AM (Tier 2)
+- **Rock 'n' Roller Coaster (Muppets)** — 2:35 PM (Tier 1)
+- **Tower of Terror** — 6:40 PM (Tier 2)
 
-**LL SINGLE PASS: Rise of the Resistance** (~$100/family) — worth every penny
+**LL SINGLE PASS: Rise of the Resistance** (~$100/family, if bought) — otherwise rope-drop it
+
+**HEIGHTS CONFIRMED:** Ravya (12) cleared for Rock 'n' Roller Coaster (48"/122cm ✓)
 
 **⏰ TIMELINE:**
 
-**7:30 AM: Depart Polynesian** → bus to Hollywood Studios (~30 min)
+**7:15 AM: Depart Polynesian** → bus to Hollywood Studios (~30 min)
 
-**8:30 AM: 🎢 EARLY ENTRY — sprint to Rise of the Resistance** (Galaxy's Edge)
+**7:45 AM: Arrive** at park entrance, clear security
+
+**8:00 AM: Line up at rope-drop** (near Chinese Theatre)
+
+**8:30 AM: 🎢 EARLY ENTRY — SPRINT to Rise of the Resistance**
+- Galaxy's Edge, back-left of park
 - 30-45 min at rope drop vs 120+ later
-- OR use your LL Single Pass instead
+- **If you bought LL Single for Rise**: use later + rope-drop **Slinky Dog Dash** instead
 
-**9:30 AM: 🎢 Millennium Falcon: Smugglers Run** (Galaxy's Edge, interactive cockpit)
+**9:15 AM: 🎢 Millennium Falcon: Smugglers Run** (Galaxy's Edge, next to Rise) — 30-40 min standby, get pilot role
 
-**10:05 AM: 🎢 Star Tours (LL #1)** — tap in → book LL #4
+**9:45 AM: 🎢 Star Tours (LL #1)** — Echo Lake
+- Tap in → **IMMEDIATELY book LL #4 = Mickey & Minnie's Runaway Railway** (or Slinky Dog Dash if it's back up)
 
-**11:00 AM: 🎢 Mickey & Minnie's Runaway Railway** standby (should still be low)
+**10:15 AM: Walk to Toy Story Land**
+
+**10:30 AM: 🎢 Alien Swirling Saucers standby** — 20-30 min this early
+
+**11:00 AM: 🎢 Toy Story Mania** (if open) — 30-40 min standby, classic 4D shooter
 
 **12:00 PM: 🍔 LUNCH**
-- **Docking Bay 7** (Star Wars themed) or **Woody's Lunch Box** (Toy Story Land BBQ)
+- **Docking Bay 7** (Galaxy's Edge, Ronto Wrap iconic)
+- **Woody's Lunch Box** (Toy Story BBQ, potato barrels)
+- **ABC Commissary** (quick)
 
-**1:00 PM: 🎭 Indiana Jones Epic Stunt Spectacular** (Echo Lake, 30 min live stunt show)
+**1:00 PM: 🎭 Indiana Jones Epic Stunt Spectacular** (Echo Lake, 30-min live stunt show, kids will love, A/C-ish)
 
-**2:00 PM: Explore Galaxy's Edge**
+**1:45 PM: 🌌 Explore Galaxy's Edge**
 - Blue milk / green milk at Milk Stand ($8)
-- Savi's Workshop lightsaber build ($250)
-- Droid Depot ($120)
+- Millennium Falcon photos
+- Optional: Savi's Workshop lightsaber build ($250), Droid Depot ($120)
 
-**3:30 PM: 🎢 Rock 'n' Roller Coaster Muppets (LL #2)** — tap in → book LL #5
+**2:35 PM: 🎢 Rock 'n' Roller Coaster Muppets (LL #2)** — Sunset Blvd
+- Ravya cleared (48"+)
+- Tap in → book LL #5 = Mickey & Minnie's or LL #6
 
-**4:15 PM: 🎭 Muppet*Vision 3D** (25 min A/C break)
+**3:15 PM: 🎭 Muppet*Vision 3D** — 25 min A/C break, classic Muppets
 
-**5:00 PM: 🎭 Beauty and the Beast Live on Stage** (Sunset Blvd, 30 min musical, A/C)
+**4:00 PM: 🎭 Beauty and the Beast Live on Stage** (Sunset Blvd) — 30 min stage musical, A/C
 
-**6:00 PM: 🎢 Alien Swirling Saucers** or **Toy Story Mania** (if open) — short waits
+**4:45 PM: 🎢 LL #4** (Mickey & Minnie's or Slinky) — tap in → book LL #6
 
-**7:00 PM: 🍽️ Quick dinner** — ABC Commissary or PizzeRizzo
+**5:30 PM: Wander Sunset Blvd**, snack break, or shopping
 
-**7:30 PM: Check Fantasmic showtime** — get to amphitheater 30 min early
+**6:00 PM: 🍽️ EARLY DINNER**
+- **ABC Commissary** (fast)
+- **PizzeRizzo** (Muppets-themed pizza, quick)
+- **Sci-Fi Dine-In** (if booked, drive-in themed)
 
-**8:00 PM: 🌟 FANTASMIC!** — 30 min lagoon spectacular (Mickey vs villains, water screens, fireworks)
+**6:40 PM: 🎢 Tower of Terror (LL #3)** — Sunset Blvd
+- Tap in → book LL #7 if slots remain
 
-**8:25 PM: 🎢 Tower of Terror (LL #3)** — walk fast from amphitheater exit to Sunset Blvd. 35 min window before park closes at 9 PM.
+**7:15 PM: Walk to Hollywood Hills Amphitheater** (far end Sunset Blvd, past Rock 'n' Roller). Get seats 30 min early.
 
-**9:00 PM: 🚪 Park closes** — head to bus/Lyft back to Polynesian
+**7:45 PM: Grab Fantasmic seats** — closer = better views but hotter
 
-**10:00 PM: 🏠 Home at Polynesian**
+**8:00 PM: 🌟 FANTASMIC!** — 30 min lagoon spectacular
+- Mickey vs villains
+- Water screens with Disney projections
+- Fireworks + dragon
+- Best evening entertainment at HS
 
-**10:00-10:45 PM: 📦 PACK EVERYTHING**
-- Disney merch, dirty clothes, tomorrow's outfits on top
+**8:30 PM: Show ends** — leave amphitheater, walk to park exit via Sunset → Hollywood Blvd
+
+**8:50 PM: 🚕 Lyft back to Polynesian** (~$20, ~15 min) — MUCH faster than bus post-Fantasmic
+
+**9:30 PM: 🏠 Home at Polynesian**
+
+**9:30-10:15 PM: 📦 PACK EVERYTHING**
+- Disney merch + shopping in checked bags
+- Dirty clothes bagged
+- Tomorrow's outfits laid out (jeans, comfy shoes, layers for Boston)
+- Toiletries in carry-on
+- Empty fridge
+- Thank-you note for Mousekeeping
+
+**10:15 PM: Final prep**
 - Boarding passes on phones (DL2436, MCO 7:00 AM → BOS 10:07 AM)
-- Set **3 alarms** for 04:30 AM
-- Schedule **Uber XL for 05:00 AM** to MCO
 - Charge phones + power bank
-- Leave tip + note for housekeeping
+- Set **3 alarms** for 04:30 AM (yours, Vernika's, one on kitchen counter)
+- **Schedule Uber XL** for 05:00 AM to MCO (~35 min drive, allow 45 for early morning safety)
 
-**11:00 PM: 💤 Lights out** — 5h 30m sleep
+**10:30 PM: 💤 Lights out** — 6 hrs sleep before Boston
 
-**💤 OVERNIGHT:** Disney's Polynesian Village Resort (final night)
+**🎯 EXPECTED RIDE COUNT: ~13-14 attractions**
+- Rope drop: Rise + Millennium Falcon = 2 headliners
+- LL slots: Star Tours + Rock 'n' Roller + Tower of Terror = 3
+- LL rolling: Mickey & Minnie's + 1-2 more = 2-3
+- Standby: Alien Swirling Saucers, Toy Story Mania = 2
+- Shows: Indy + Muppet Vision + Beauty & Beast + Fantasmic = 4
+
+**💰 DAY BUDGET (LL Multi already bought):**
+- Lunch: $60-80
+- Dinner: $50-70
+- Snacks (Blue milk, Ronto Wrap): $40
+- **Day total: ~$150-190**
+
+**💤 OVERNIGHT:** Disney's Polynesian Village Resort (FINAL night)
 
 ---
 
