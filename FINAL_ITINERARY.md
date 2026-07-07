@@ -636,9 +636,9 @@ All airline-served airports for this trip, in order of travel. Cities with multi
 
 ---
 
-### **JUL 6 (MONDAY) — BOSTON CITY CORE (FREEDOM TRAIL + WATERFRONT)** — full group day 👨‍👩‍👧‍👦
+### **JUL 6 (MONDAY) — PUBLIC GARDEN + FENWAY + FAREWELL DINNER** — full group day 👨‍👩‍👧‍👦
 
-*Last day with Sachin's family — a big shared Boston day before we head off on the road trip tomorrow.*
+*Last day with Sachin's family. Freedom Trail + Quincy Market + North End Italian already done Jul 4-5, so today is fresh Boston stops + a farewell dinner before we roll out on the road trip tomorrow. No seafood — chicken/steak-friendly picks throughout.*
 
 **⏰ TIMELINE:**
 
@@ -651,34 +651,55 @@ All airline-served airports for this trip, in order of travel. Cities with multi
 - Inspection + photos via the Turo app; pickup ~30 min total
 - Drive back to the hotel area; park in a hotel/nearby garage for the day (Boston garages ~$40-60/day)
 
-**11:00 AM-2:00 PM: FREEDOM TRAIL (together with Sachin's family)**
-- 2.5-mile red-brick path through 16 historic sites — the classic Boston walk
-- Highlights: Boston Common, Massachusetts State House (gold dome), Granary Burying Ground (Paul Revere, Sam Adams), Old State House, Paul Revere House, Old North Church
-- Self-guided (free) or a guided group tour (~$20-25pp)
+**11:00 AM-1:00 PM: BOSTON PUBLIC GARDEN + BEACON HILL + BPL**
+- **Boston Public Garden** — the classic Swan Boats ride on the lagoon (~15 min, $4.50/adult, kids love it)
+- **Beacon Hill walk** — cross Charles St and stroll up to **Acorn Street** (cobblestones + gas lamps — the most photographed street in America)
+- **Boston Public Library — Bates Hall** on the way back through Copley (free, 20 min for the stunning barrel-vaulted reading room)
 
-**2:00-3:30 PM: Group Lunch in the NORTH END (Little Italy)**
-- Italian lunch on Hanover Street; cannoli from Mike's Pastry or Modern Pastry
-- ~$20-35/person (book a table for the full group)
+**1:00-2:30 PM: LUNCH at TIME OUT MARKET BOSTON (Fenway)**
+- 401 Park Dr, Fenway (5 min drive from Back Bay)
+- Curated food hall — 15+ vendors: burgers, tacos, Korean fried chicken, pizza, ramen, Israeli, Vietnamese
+- Perfect for a mixed group with different tastes; no seafood needed
+- No reservation, communal seating; ~$20-30/person
+- **Backup sit-down:** Sonsie (Newbury St, bistro w/ chicken sandwich + patio, group-friendly) — 617-351-2500
 
-**3:30-6:00 PM: WATERFRONT — New England Aquarium + Harborwalk**
-- New England Aquarium: Giant Ocean Tank, penguins, touch pools (~$30/adult, ~$22/child)
-- Walk the Harborwalk for harbor views; optional Faneuil Hall / Quincy Market
+**2:30-4:00 PM: FENWAY PARK TOUR** (next door to Time Out)
+- 1-hr guided tour of America's oldest ballpark — Green Monster, Pesky Pole, press box, dugout
+- ~$25/adult, ~$20/child; last tour ~4 PM
+- Book at mlb.com/redsox/ballpark/tours; walk-up sometimes available Mondays
 
-**6:00-8:30 PM: Farewell Group Dinner — Waterfront / Back Bay**
-- A nice send-off meal with Sachin's family before we split
-- Legal Seafoods (~$30-45pp) / Neptune Oyster (~$50-70pp) / Giacomo's (~$40-60pp) — reserve for 8+
+**4:00-5:00 PM: ISABELLA STEWART GARDNER MUSEUM** (10 min walk from Fenway)
+- World-class art in a Venetian palazzo courtyard; open Mondays, closes 5 PM ⚠️
+- ~$20/adult, free under 18, free if your name is Isabella
+- Optional — skip if the group is fading
 
-**8:30 PM: Pack for the road trip**
-- Say goodbyes; load the BMW so you can roll out early Jul 7
+**5:00-6:30 PM: Back to hotel + short rest**
+
+**6:30-9:00 PM: FAREWELL GROUP DINNER — GRILL 23 & BAR (Back Bay)**
+- 161 Berkeley St, Back Bay (10 min drive from hotel)
+- Classic Boston steakhouse — dry-aged steaks, chicken parm, prime burger, big wine list
+- ~$60-90/person; nice farewell vibe with Sachin's family
+- **Reserve now: (617) 542-2255 or OpenTable** — Mon night at 6-7 PM for 8+ fills up
+- **Backups:** Sonsie (Newbury, cheaper), The Capital Grille (Newbury, easier rez), Yvonne's (Downtown Crossing, restored ballroom vibe)
+
+**9:00 PM: Pack for the road trip**
+- Say goodbyes; load the BMW; fuel up tonight so you can roll out at 7:30 AM tomorrow
 
 **💤 OVERNIGHT:** Boston (Beacon Hill / Back Bay)
 
 **COST ESTIMATE:**
 - Breakfast: ~$15-25/person
-- Aquarium: ~$95-110 family
-- Lunch: ~$20-35/person
-- Dinner: ~$30-70/person
-- **Daily total: ~$220-320**
+- Swan Boats: ~$18 family / BPL: free
+- Time Out Market lunch: ~$20-30/person
+- Fenway tour: ~$95 family
+- ISG Museum: ~$40 family (adults only pay)
+- Grill 23 dinner: ~$60-90/person
+- **Daily total: ~$280-380**
+
+**BOOK NOW:**
+- ✅ Grill 23 dinner rez for 8+ (call: 617-542-2255)
+- ✅ Fenway tour tickets for ~3 PM (mlb.com/redsox/ballpark/tours)
+- ✅ Cadillac Mountain summit reservation for Jul 8 (recreation.gov — sells out)
 
 ---
 
@@ -699,6 +720,8 @@ All airline-served airports for this trip, in order of travel. Cities with multi
 
 ### **JUL 7 (TUESDAY) — BOSTON → BAR HARBOR (stop in Portland)** *(~5 hr driving + Portland stop / ~280 mi)*
 
+*🍗 No-seafood picks throughout — chicken/pasta/pizza-friendly.*
+
 **⏰ TIMELINE:**
 
 **7:30-8:30 AM: Breakfast & depart Boston**
@@ -708,14 +731,22 @@ All airline-served airports for this trip, in order of travel. Cities with multi
 - Stretch the legs and have lunch in this charming harbor city
 - **Old Port:** cobblestone streets, shops, working waterfront
 - **Portland Head Light** (Cape Elizabeth): iconic lighthouse + ocean views
-- Lobster lunch (Eventide Oyster Co. or a classic lobster shack, ~$25-35pp)
+- **Lunch (no seafood):**
+  - **Duckfat** (Belgian frites, chicken confit sandwich, poutine — the local pick, ~$15-25pp)
+  - **Flatbread Company** (wood-fired pizza right on the harbor, ~$18-25pp)
+  - **Central Provisions** (small plates, wide non-seafood menu)
 
 **1:30-5:00 PM: Continue Portland → Bar Harbor** *(~3 hr)*
 - Scenic coastal drive up US-1; optional quick photo stop in Camden
 - Arrive Mount Desert Island / Bar Harbor late afternoon
 
 **5:00-8:00 PM: Check in + dinner in Bar Harbor**
-- Walk the village + Shore Path; fresh lobster + blueberry pie (Side Street Cafe, Geddy's, ~$25-40pp)
+- Walk the village + Shore Path
+- **Dinner (no seafood):**
+  - **Paddy's Irish Pub & Restaurant** (solid chicken + burgers, family-friendly, ~$20-30pp)
+  - **Testa's Restaurant** (Italian, family-run since 1934, ~$25-40pp)
+  - **Rosalie's Pizza** (Bar Harbor institution, wood-fired pizza)
+  - **Havana** (Cuban-inspired, strong chicken/pork dishes, upscale)
 
 **🛏️ OVERNIGHT:** Trenton, ME (night 1 of 2) ✅ BOOKED
 
@@ -739,26 +770,43 @@ All airline-served airports for this trip, in order of travel. Cities with multi
 
 ### **JUL 8 (WEDNESDAY) — ACADIA NATIONAL PARK (Full Day)** 🏔️
 
+*🍗 No-seafood day. Cadillac Summit moved to LATE AFTERNOON for golden-hour light (reviewers' consensus pick — beats sunrise crowd stress and midday harsh light).*
+
 **⏰ TIMELINE:**
 
 **7:30-8:30 AM: Breakfast**
-- Early start to beat crowds; breakfast at the Trenton Airbnb or grab something in Bar Harbor (~15 min over the bridge onto Mount Desert Island)
+- Relaxed start at the Trenton Airbnb — no need to beat sunrise crowds
 
-**8:30 AM-12:30 PM: PARK LOOP ROAD + CADILLAC MOUNTAIN**
-- **Cadillac Mountain:** drive to the summit for sweeping island + ocean views (timed-entry vehicle reservation required in summer — book ahead at recreation.gov)
-- **Park Loop Road:** scenic 27-mile loop — Sand Beach, Thunder Hole (waves crash through a rock chasm), Otter Cliff
+**8:30-9:00 AM: Drive to Acadia**
+- ~20 min from Trenton, cross the bridge onto Mount Desert Island, into the park
+
+**9:00 AM-12:30 PM: PARK LOOP ROAD**
+- Scenic 27-mile loop — Sand Beach, Thunder Hole (waves crash through a rock chasm), Otter Cliff
 - Family-friendly walks: Ocean Path, Jordan Pond Path
-
-**12:30-2:00 PM: Lunch at JORDAN POND HOUSE**
-- Famous popovers + jam with pond/mountain views (~$20-30pp) — reserve if possible
-
-**2:00-5:30 PM: More Acadia**
-- Bubble Rock, Jordan Pond loop, or a ranger-led activity
-- Optional: bike the historic carriage roads, or brave a swim at Sand Beach (chilly!)
 - Wildlife: seals, peregrine falcons, harbor porpoises
 
-**5:30-8:00 PM: Return to Bar Harbor + dinner**
-- Lobster dinner; sunset over Frenchman Bay
+**12:30-2:00 PM: Lunch at JORDAN POND HOUSE**
+- Famous popovers + jam with pond/mountain views (~$20-30pp) — reserve ahead
+- Menu has chicken salad, soups, salads — no lobster pressure
+
+**2:00-4:00 PM: More Acadia**
+- Bubble Rock, Jordan Pond loop, or a ranger-led activity
+- Optional: bike the historic carriage roads, or brave a swim at Sand Beach (chilly!)
+
+**4:30-6:00 PM: CADILLAC SUMMIT — golden hour ⭐**
+- Timed-entry vehicle reservation required — book at **recreation.gov** (2-day slots release at 10 AM ET)
+- Aim for the 4:00 PM, 4:30 PM, or 5:00 PM slot
+- ~1 hour at the top for photos across Frenchman Bay + Porcupine Islands
+- Bring layers — it's chilly on the summit even in July
+
+**6:00-6:45 PM: Descend to Bar Harbor**
+- ~15 min drive back to Bar Harbor village
+
+**6:45-8:30 PM: DINNER in Bar Harbor (no seafood)**
+- **Paddy's Irish Pub & Restaurant** — chicken + burgers, family-friendly
+- **Testa's Restaurant** — Italian, family-run since 1934
+- **Rosalie's Pizza** — Bar Harbor institution, wood-fired
+- **Galyn's** — broader menu, ocean view, has chicken + steak
 
 **🛏️ OVERNIGHT:** Trenton, ME — Open Hearth Inn Airbnb (night 2 of 2) ✅
 
@@ -767,7 +815,9 @@ All airline-served airports for this trip, in order of travel. Cities with multi
 - Meals: ~$80-140 family
 - **Daily total: ~$130-200**
 
-**TIP:** Book the Cadillac Mountain summit vehicle reservation in advance — it sells out in summer.
+**BOOK NOW:**
+- ✅ Cadillac Summit vehicle reservation (recreation.gov — the 2-day slot for Jul 8 released Jul 6 at 10 AM ET)
+- ✅ Jordan Pond House lunch reservation (opentable.com or 207-276-3316)
 
 ---
 
