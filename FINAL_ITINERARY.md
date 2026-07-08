@@ -768,56 +768,72 @@ All airline-served airports for this trip, in order of travel. Cities with multi
 
 ---
 
-### **JUL 8 (WEDNESDAY) — ACADIA NATIONAL PARK (Full Day)** 🏔️
+### **JUL 8 (WEDNESDAY) — ACADIA + CADILLAC SUNSET 🌅**
 
-*🍗 No-seafood day. Cadillac Summit moved to LATE AFTERNOON for golden-hour light (reviewers' consensus pick — beats sunrise crowd stress and midday harsh light).*
+*Late start. Cadillac Summit BOOKED for 6:00-6:30 PM entry window — stay for sunset at 8:15 PM. Chicken-friendly, no seafood.*
 
 **⏰ TIMELINE:**
 
-**7:30-8:30 AM: Breakfast**
-- Relaxed start at the Trenton Airbnb — no need to beat sunrise crowds
+**11:00 AM-12:00 PM: Late breakfast at Airbnb**
+- Relaxed morning — the summit is late so no need to rush
 
-**8:30-9:00 AM: Drive to Acadia**
-- ~20 min from Trenton, cross the bridge onto Mount Desert Island, into the park
+**12:00-12:30 PM: Drive to Acadia**
+- ~20 min from Trenton, cross the bridge onto Mount Desert Island
+- Grab the **$35 vehicle pass** (7-day) at the entry
 
-**9:00 AM-12:30 PM: PARK LOOP ROAD**
-- Scenic 27-mile loop — Sand Beach, Thunder Hole (waves crash through a rock chasm), Otter Cliff
-- Family-friendly walks: Ocean Path, Jordan Pond Path
-- Wildlife: seals, peregrine falcons, harbor porpoises
+**12:30-3:00 PM: PARK LOOP ROAD (one-way clockwise)**
+- **Sand Beach** (~30 min) — walk the beach; water is COLD (~55°F even in July)
+- **Thunder Hole** (~20 min) — best at mid-tide, waves crash through the rock chasm with a boom (check tide time on phone)
+- **Otter Cliff** (~15 min) — 110-ft granite cliff, dramatic photos
+- Other quick stops: Otter Point, Little Hunters Beach
 
-**12:30-2:00 PM: Lunch at JORDAN POND HOUSE**
-- Famous popovers + jam with pond/mountain views (~$20-30pp) — reserve ahead
-- Menu has chicken salad, soups, salads — no lobster pressure
+**3:00-4:30 PM: JORDAN POND HOUSE**
+- Famous **popovers + jam + butter**, tea, chicken salad, soups (~$20-30pp)
+- View of the "Bubbles" across the pond
+- **Call ahead: 207-276-3316** — walk-in Mondays can wait 45+ min
 
-**2:00-4:00 PM: More Acadia**
-- Bubble Rock, Jordan Pond loop, or a ranger-led activity
-- Optional: bike the historic carriage roads, or brave a swim at Sand Beach (chilly!)
+**4:30-5:30 PM: Optional post-lunch**
+- **Bubble Rock** (~1 hr) — short climb to the precariously-balanced glacial boulder
+- **Jordan Pond loop trail** (flat, kid-friendly) or bench-sit on the lawn
+- **Carriage road stroll** (~40 min) — easy gravel roads, no cars
+- Or rest — it's a long evening ahead
 
-**4:30-6:00 PM: CADILLAC SUMMIT — golden hour ⭐**
-- Timed-entry vehicle reservation required — book at **recreation.gov** (2-day slots release at 10 AM ET)
-- Aim for the 4:00 PM, 4:30 PM, or 5:00 PM slot
-- ~1 hour at the top for photos across Frenchman Bay + Porcupine Islands
-- Bring layers — it's chilly on the summit even in July
+**5:30-6:00 PM: Drive to Cadillac Summit Rd base** *(~20 min)*
 
-**6:00-6:45 PM: Descend to Bar Harbor**
-- ~15 min drive back to Bar Harbor village
+**6:00-6:30 PM: 🏔️ CADILLAC SUMMIT — YOUR ENTRY WINDOW ✅ BOOKED**
+- Show reservation at entry gate; you can enter until 6:30 PM
+- **Once up, you can stay as long as you want past the window**
+- Drive up (~15 min switchbacks); arrive summit ~6:15 PM
 
-**6:45-8:30 PM: DINNER in Bar Harbor (no seafood)**
-- **Paddy's Irish Pub & Restaurant** — chicken + burgers, family-friendly
-- **Testa's Restaurant** — Italian, family-run since 1934
-- **Rosalie's Pizza** — Bar Harbor institution, wood-fired
-- **Galyn's** — broader menu, ocean view, has chicken + steak
+**6:15-8:30 PM: CADILLAC SUMMIT**
+- Photos across Frenchman Bay + Porcupine Islands
+- Walk the **Summit Loop Trail** (0.4 mi paved, ~15 min)
+- ⚠️ **Bring LAYERS** — summit is 10-15°F cooler than Bar Harbor + windy
+- **🌅 Sunset at 8:15 PM** — Frenchman Bay lights up
+
+**8:30-8:45 PM: Descend to Bar Harbor** *(~15 min)*
+
+**9:00-10:30 PM: LATE DINNER in Bar Harbor** ⚠️ *most kitchens close 9:30-10 PM*
+- **Paddy's Irish Pub** — 207-288-4200, call to confirm 9 PM seat
+- **Rosalie's Pizza** — usually open later, wood-fired pizza to eat in or take away
+- **Testa's** — 207-288-3327, closes ~9-10 PM, call ahead
+- **Backup:** pizza to go + eat at Airbnb
+
+**10:30 PM: Back to Trenton Airbnb** *(~15 min)*
 
 **🛏️ OVERNIGHT:** Trenton, ME — Open Hearth Inn Airbnb (night 2 of 2) ✅
 
 **COST ESTIMATE:**
-- Park entrance: $35/vehicle (7-day pass) + Cadillac summit reservation ~$6
+- Park entrance: $35/vehicle (7-day pass) + $6 summit reservation
 - Meals: ~$80-140 family
 - **Daily total: ~$130-200**
 
-**BOOK NOW:**
-- ✅ Cadillac Summit vehicle reservation (recreation.gov — the 2-day slot for Jul 8 released Jul 6 at 10 AM ET)
-- ✅ Jordan Pond House lunch reservation (opentable.com or 207-276-3316)
+**CALL NOW:**
+- ✅ **Jordan Pond House — 207-276-3316** — reserve for ~3 PM
+- ✅ **Paddy's Irish Pub — 207-288-4200** — check 9 PM seating
+
+**LATE-DINNER BACKUP PLAN:**
+- If nothing seats you at 9 PM, grab pizza from Rosalie's on the way through Bar Harbor before the summit, or eat at the Airbnb after descent (packaged food, or delivery if available)
 
 ---
 
