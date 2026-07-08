@@ -964,36 +964,66 @@ All airline-served airports for this trip, in order of travel. Cities with multi
 
 ---
 
-### **JUL 13 (MONDAY) — STATUE OF LIBERTY, BROOKLYN BRIDGE & BROADWAY**
+### **JUL 13 (MONDAY) — FRIENDS DAY 🛋️** *(Broadway was Jul 12; Statue of Liberty + Brooklyn Bridge moved to Jul 15)*
+
+*Full Friends-fan day for the family. All three of the show's real-world NYC touchpoints in one loop.*
 
 **⏰ TIMELINE:**
 
-**9:00-10:00 AM: Breakfast**
+**9:00-10:00 AM: Breakfast in Astoria + subway into Manhattan**
 
-**10:00 AM-1:00 PM: STATUE OF LIBERTY & ELLIS ISLAND**
-- 💡 **From Astoria:** Take N/W to Whitehall St / South Ferry → walk to **Battery Park** for the Statue of Liberty ferry (~40 min door-to-door). Book the **Statue Cruises** ticket in advance — pedestal access is timed.
-- Otherwise: ferry from **Battery Park, Manhattan**
-- Either way: book ahead at **statueofliberty.org** — no same-day walk-ups
-- Reserve + Pedestal access recommended (~$24/adult, $18/child); Ellis Island immigration museum included
+**10:00-11:30 AM: CENTRAL PERK COFFEE CO. ☕**
+- **20 Times Square** (Warner Bros. permanent café, opened Dec 2025)
+- Real working coffee shop with the orange couch, Gunther counter, merch
+- Get coffee, take photos on the couch
+- Check their site closer to trip for reservation/walk-in policy
 
-**1:00-3:30 PM: BROOKLYN BRIDGE WALK + DUMBO**
-- Walk the pedestrian path (1.3 mi) for skyline views; explore DUMBO (Jane's Carousel, waterfront)
-- Lunch/snack in DUMBO (~$15-25pp)
+**11:30 AM-12:00 PM: Subway to West Village**
+- A/C/E or 1 train → West 4 St / Christopher St (~15 min)
 
-**3:30-6:00 PM: Rest + dinner prep**
+**12:00-12:30 PM: THE FRIENDS APARTMENT (exterior) 🏠**
+- **90 Bedford Street** (corner of Grove Street, West Village)
+- Iconic exterior — Monica's window on the upper floor
+- Photos across the street (residents live there — respectful distance)
+- 15 min, free
 
-**6:00-8:30 PM: BROADWAY SHOW** 🎭
-- Family picks: **The Lion King** or **Aladdin** (both great for ages 12-16)
-- Book ahead (~$80-180/ticket) or TKTS booth for day-of discounts
-- ~2.5 hrs incl. intermission; late dessert after (NY cheesecake at Junior's)
+**12:30-2:00 PM: LUNCH in the West Village (chicken-friendly)**
+- **Little Owl** — ground floor of the actual Friends building, chicken/pasta menu — reserve ahead
+- **Magnolia Bakery** — Bleecker St, cupcakes + light sandwiches
+- **Joe's Pizza** on Carmine St — Bleecker slice
+- ~$20-40/person
+
+**2:00-3:30 PM: West Village stroll**
+- Bleecker Street shops, Washington Square Park, Cornelia Street cafés
+- Grab a Magnolia cupcake to walk with
+
+**4:00-4:30 PM: Subway to Flatiron**
+- 6 train up to 23 St (~15 min); arrive by 4:20 PM to check in
+
+**4:30-6:00 PM: THE FRIENDS EXPERIENCE ✅ BOOKED 🎬**
+- **130 East 23rd Street** (corner of Lex & 23rd, Flatiron)
+- **Confirmed slot: 4:30 PM · ~90 min**
+- Immersive attraction — recreated sets: Central Perk, Monica & Rachel's apt, Joey & Chandler's, the fountain
+- Sit on the couch, walk through the sets, photo ops throughout
+
+**6:15-8:30 PM: Dinner in Flatiron (chicken-friendly, no seafood)**
+- **Cosme** (upscale Mexican), **Eataly Flatiron** (Italian food hall — everyone picks), **ABC Kitchen** (farm-to-table), **The Smith** (American bistro)
+
+**8:30 PM: N/W back to Astoria from 23 St**
 
 **🛏️ OVERNIGHT:** NYC — Astoria, Queens — night 3 of 5
 
 **COST ESTIMATE:**
-- Statue/Ellis ferry: ~$84 family
-- Broadway: ~$320-720 (4 tickets)
-- Meals: ~$150-220
-- **Daily total: ~$550-1,000**
+- Central Perk coffee/snacks: ~$40 family
+- Lunch: ~$80-120 family
+- Friends Experience: ~$120-150 family (3 people)
+- Dinner: ~$150-250 family
+- **Daily total: ~$390-560**
+
+**BOOK NOW:**
+- ✅ The Friends Experience — friendstheexperience.com (pick 4 PM slot)
+- ✅ Little Owl lunch reservation (if going there) — opentable.com
+- ✅ Central Perk Coffee Co. — check policy on their site
 
 ---
 
@@ -1024,28 +1054,52 @@ All airline-served airports for this trip, in order of travel. Cities with multi
 
 ---
 
-### **JUL 15 (WEDNESDAY) — NYC: YOUR-CHOICE DAY** *(the extra day)*
+### **JUL 15 (WEDNESDAY) — STATUE OF LIBERTY, BROOKLYN BRIDGE & FAREWELL NYC 🗽**
+
+*Moved from Jul 13 (which became Friends day). Last full NYC day before driving to Boston.*
 
 **⏰ TIMELINE:**
 
-**9:00-10:00 AM: Breakfast**
+**8:30 AM: N/W to Whitehall St / South Ferry**
+- ~35 min from Astoria, walk to Battery Park
 
-**A relaxed final NYC day — mix and match to taste:**
-- **More icons:** Empire State / Edge / Summit observation deck if not done; St. Patrick's, Grand Central, NY Public Library, Rockefeller Center
-- **Museums:** The Met (one of the world's greatest) or the Intrepid Sea-Air-Space Museum (great for Ravya)
-- **Kid-favorite:** Bronx Zoo, or the day-trip to Coney Island (boardwalk, rides, beach)
-- **Shopping:** Fifth Ave, SoHo, or Chelsea Market food hall for lunch
-- **Green + chill:** The High Line + Hudson Yards / Little Island
-- Optional **second Broadway show** or a comedy/jazz night
+**9:30 AM-1:00 PM: STATUE OF LIBERTY & ELLIS ISLAND** 🗽
+- Battery Park ferry to Liberty Island; Ellis Island included
+- **Book ahead at statueofliberty.org** — Reserve + Pedestal access recommended (~$24/adult, $18/child); no same-day walk-ups
+- Ellis Island Immigration Museum on the return
 
-**Evening: Farewell-to-NYC dinner**
-- Somewhere memorable — Little Italy, a rooftop, or a classic NY steakhouse/deli
+**1:00-2:30 PM: Lunch in Lower Manhattan or FiDi (chicken-friendly)**
+- **The Dead Rabbit** (Irish pub, chicken pot pie), **Fraunces Tavern** (historic tavern), **Eataly Downtown** (food hall variety)
 
-**🛏️ OVERNIGHT:** NYC (NJ side) — 5th & final NYC night
+**2:30-3:30 PM: BROOKLYN BRIDGE walk** 🌉
+- Pedestrian path (~1.3 mi Manhattan → DUMBO); classic skyline photos
 
-**HIGHLIGHTS:**
-- ✅ The extra day means NYC without rushing
-- ✅ Flex around the family's energy — icons, museums, or just wandering
+**3:30-5:30 PM: DUMBO**
+- Jane's Carousel, Manhattan Bridge photo from Washington Street (the iconic shot), Brooklyn Bridge Park waterfront
+- Time Out Market Brooklyn (55 Water St) for a snack + skyline view
+
+**5:30-7:00 PM: Back to Manhattan (or stay in Brooklyn)**
+- Rest at hotel or freshen up
+
+**7:00-9:30 PM: FAREWELL NYC DINNER** 🍽️
+- Somewhere memorable — pick your vibe:
+  - **Keens Steakhouse** (Herald Square, historic, chicken + steak)
+  - **Carbone** (Greenwich Village, upscale Italian-American — book weeks ahead)
+  - **The Modern** (Midtown, MoMA-adjacent, upscale)
+  - **Little Italy** — Rubirosa, Il Cortile (chicken/pasta)
+  - **A rooftop** — 230 Fifth, The Skylark, PHD Terrace
+
+**🛏️ OVERNIGHT:** NYC — Astoria, Queens — 5th & final NYC night
+
+**COST ESTIMATE:**
+- Statue/Ellis ferry: ~$66 family (3 people, no seafood restriction relevant)
+- Lunch: ~$60-100
+- Dinner: ~$180-350 depending on venue
+- **Daily total: ~$350-550**
+
+**BOOK NOW:**
+- ✅ Statue of Liberty Reserve+Pedestal ferry tickets (statueofliberty.org)
+- ✅ Farewell dinner reservation (if going upscale — Carbone, Keens, The Modern all need advance booking)
 
 ---
 
