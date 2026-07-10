@@ -869,29 +869,78 @@ All airline-served airports for this trip, in order of travel. Cities with multi
 
 ---
 
-### **JUL 10 (FRIDAY) — WHITE MOUNTAINS DAY (from Holderness)** ⛰️
+### **JUL 10 (FRIDAY) — WHITE MOUNTAINS — FRANCONIA NOTCH + KANCAMAGUS** ⛰️
 
-*Holderness puts you a comfortable 40 min south of the headline NH attractions — easy day-trip range.*
+*Franconia Notch morning (Flume + The Basin + Cannon Tramway) → Lincoln lunch → Kancamagus Highway with expanded stops. Echo Lake skipped, Cog Railway skipped. ~140 mi total, ~4 hrs drive time.*
 
-**Recommended plan (Franconia Notch + Lakes Region combo):**
+**⏰ POINT-BY-POINT TIMELINE:**
 
 **8:00-9:00 AM: Breakfast at the cabin**
+- Pack layers — mountains 10-15°F cooler than the Lakes
 
-**9:00 AM-1:00 PM: FRANCONIA NOTCH STATE PARK** *(~40 min north on I-93)*
-- **Flume Gorge** boardwalk — dramatic granite chasm + waterfalls (~$18 adult, $16 child; allow ~1.5 hr)
-- **Cannon Mountain Aerial Tramway** to the 4,080-ft summit for sweeping views (~$25/adult)
-- Echo Lake — quick stop for photos / swim if hot
+**9:00 AM: Depart Holderness → Franconia Notch** *(~28 mi north on I-93 / ~35 min)*
 
-**1:00-2:30 PM: Lunch in Lincoln or Loon area**
-- Mountain-town diners + outfitters; or picnic at a Kancamagus overlook
+**9:45-11:15 AM: FLUME GORGE**
+- 📍 852 Daniel Webster Hwy, Lincoln, NH 03251
+- 2-mi loop boardwalk through 800-ft granite chasm + Avalanche Falls
+- ~1.5 hrs · $18 adult / $16 child · book at nhstateparks.org
 
-**2:30-5:00 PM: KANCAMAGUS HIGHWAY** *(start at Lincoln, drive east toward Conway)*
-- One of America's great scenic drives — Sabbaday Falls (short walk), Rocky Gorge, Sugar Hill Overlook
-- ~1 hour driving + stops; end at North Conway
+**11:20-11:45 AM: THE BASIN (Franconia Notch)** ⭐
+- 📍 I-93 exit 34A, Franconia Notch State Park, NH
+- Glacial pothole (30 ft across, 15 ft deep) carved by the Pemigewasset River over 15,000 years
+- Short paved path (~0.2 mi RT); classic White Mountains photo op
+- ~25 min
 
-**5:00-6:30 PM: Drive back to Holderness** *(~1 hr south via Conway → I-93)*
+**12:00-1:00 PM: CANNON MOUNTAIN AERIAL TRAMWAY**
+- 📍 260 Tramway Dr, Franconia, NH 03580
+- 4,080-ft summit; 80-mile view on clear days (4 states + Canada)
+- $25/adult · 8-min ride each way · ~1 hr total
 
-**6:30-8:30 PM: Dinner near the cabin** + sunset on Squam Lake
+**1:15-2:30 PM: LUNCH in Lincoln, NH** *(~7 mi south on I-93 / 10 min)*
+- **The Common Man Lincoln** · 10 Pollard Rd — American, chicken menu, kid-friendly
+- **Gypsy Cafe** · 117 Main St — casual, chicken tacos + burgers
+- **Woodstock Inn Brewery** · 135 Main St, N. Woodstock — pub food
+
+**2:30 PM: KANCAMAGUS HIGHWAY (NH-112 East)** *(34.5 mi Lincoln → Conway · budget ~3 hrs with stops)*
+
+- **2:45 PM · ~mi 6 · Hancock Overlook** — views west toward Mt Osceola; quick pullout (10 min)
+- **2:55 PM · ~mi 7 · C.L. Graham Wangan Ground Overlook** — top of Kancamagus Pass (2,855 ft), panoramic east toward the Presidentials on clear days (10 min)
+- **3:20 PM · ~mi 15 · Sabbaday Falls** — 0.4-mi RT walk to a 3-tiered waterfall (~25-30 min)
+- **4:00 PM · ~mi 26 · Lower Falls Scenic Area** ⭐ — waterfalls + swimming holes on the Swift River; sand + rock beach area for kids to wade if warm (~25 min)
+- **4:35 PM · ~mi 29 · Rocky Gorge Scenic Area** — narrow gorge waterfall + covered footbridge over Swift River (~15 min)
+- **5:00 PM · ~mi 31 · Sugar Hill Scenic Vista** — east-facing panorama of Mt Chocorua + the Sandwich Range (~10 min)
+- **5:30 PM: Arrive Conway**
+
+**5:30-6:30 PM: Drive back to Holderness** *(Conway → NH-16 S → NH-25 W · ~50 mi / 1 hr)*
+
+**7:00-8:30 PM: DINNER (chicken-friendly)**
+- **Walter's Basin** · 859 US-3, Holderness — lakeside, chicken/burgers, sunset views
+- **Common Man Ashland** · 60 Main St, Ashland (10 min south) — classic NH comfort food
+- **Grill at the cabin** — buy at Ashland IGA, sunset ~8:15 PM on Squam Lake
+
+**KEY DISTANCES:**
+
+| Segment | Distance | Time |
+|---|---|---|
+| Holderness → Franconia Notch | 28 mi | 35 min |
+| Franconia stops (Flume + Basin + Cannon) | ~10 mi | 30 min drive |
+| Franconia → Lincoln lunch | 7 mi | 10 min |
+| Kancamagus (Lincoln → Conway) | 34.5 mi | ~3 hrs with stops |
+| Conway → Holderness | ~50 mi | 1 hr |
+| **TOTAL** | **~140 mi** | **~4 hrs drive + stops** |
+
+**GOOGLE MAPS WAYPOINTS (paste in order):**
+
+1. Meagan's Holderness cabin (or `Squam Lake, Holderness, NH`)
+2. `Flume Gorge Visitor Center, Lincoln, NH`
+3. `The Basin, Franconia Notch, NH`
+4. `Cannon Mountain Aerial Tramway, Franconia, NH`
+5. `The Common Man, Lincoln, NH`
+6. `Sabbaday Falls, Kancamagus Highway, NH`
+7. `Lower Falls Scenic Area, NH-112, NH`
+8. `Rocky Gorge Scenic Area, NH-112, NH`
+9. `Conway, NH`
+10. Meagan's Holderness cabin
 
 **Alternative if you want a low-drive day:**
 - Skip Franconia/Kanc; spend the day on **Squam Lake** (boat tour, swim, hike Rattlesnake Mtn for the postcard view) + visit Castle in the Clouds (~45 min east on Lake Winnipesaukee)
